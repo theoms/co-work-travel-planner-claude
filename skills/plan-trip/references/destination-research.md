@@ -12,7 +12,7 @@ Search in this order to build a rich picture of each destination:
 2. **Regional food and lifestyle blogs** — search `[destination] food blog`, `[destination] local guide`. These writers know the real spots. Adapt searches to the family's dietary needs and food interests (e.g., `[destination] best vegan food` or `[destination] craft brewery` — whatever matches their profile)
 3. **Community forums and interest groups** — search based on the family's specific interests. `[destination] hiking with kids reddit`, `[destination] art scene`, `[destination] live music`, etc.
 4. **Local newspapers and event calendars** — search `[destination] events [month] [year]`, `[destination] community calendar`
-5. **Niche review sites** — AllTrails for hikes, Yelp for restaurants, Airbnb experience pages. Filter by whatever is relevant to this family
+5. **Niche review sites** — AllTrails for hikes, Google Maps for restaurants and local businesses (preferred — use ratings, reviews, and "Popular times"), Airbnb experience pages. Yelp is acceptable as a secondary source if Google Maps lacks sufficient coverage, but don't lead with it
 6. **~~maps** — verify distances, drive times, and proximity of activities to lodging
 
 ### Evaluation Criteria

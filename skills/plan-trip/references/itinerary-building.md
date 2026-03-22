@@ -22,8 +22,8 @@ The only universal principle: build in more flexibility than you think is needed
 
 For each activity slot, search based on the family's specific interests — not a generic list of "things to do." Tailor every search:
 
-1. **Food & drink**: Search based on their stated food interests and dietary needs. `best [their preferred cuisine] [destination]`, `[destination] [dietary restriction] friendly restaurants`, `[destination] food blog`. Look for specific dishes or specialties the area is known for that match their tastes.
-2. **Activities matching their interests**: Search for whatever they said they enjoy. `[destination] [their interest] with kids age [X]`, `[destination] [their hobby]`. Cross-reference niche sites for details (AllTrails for hikes, etc.).
+1. **Food & drink**: Search based on their stated food interests and dietary needs. `best [their preferred cuisine] [destination]`, `[destination] [dietary restriction] friendly restaurants`, `[destination] food blog`. Look for specific dishes or specialties the area is known for that match their tastes. **Prefer Google Maps** for restaurant research — it has the most reliable ratings, reviews, hours, and photos. Use Yelp only as a secondary source when Google Maps doesn't have enough coverage.
+2. **Activities matching their interests**: Search for whatever they said they enjoy. `[destination] [their interest] with kids age [X]`, `[destination] [their hobby]`. Cross-reference niche sites for details (AllTrails for hikes, Google Maps for local businesses and attractions, etc.).
 3. **Local experiences and events**: Search `[destination] events [specific date]`, `[destination] community calendar`, `[destination] local traditions`. Surface things that feel authentic and match the family's vibe.
 4. **Backup plans**: Search for alternatives in case of weather, closures, or meltdowns. Match the backup to the same interests as the primary plan.
 5. **"Feel like a local" spots**: Search `[destination] where locals go`, `[destination] best kept secrets`. The places tourists don't know about — but filter for relevance to this family's tastes.

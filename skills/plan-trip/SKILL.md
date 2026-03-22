@@ -8,7 +8,7 @@ description: >
   for families with children. Also triggers on "plan our anniversary trip",
   "spring break ideas", "summer vacation", or general travel itinerary requests.
 metadata:
-  version: "0.3.0"
+  version: "0.3.1"
   author: "Omri Ben"
 ---
 
@@ -30,6 +30,7 @@ Every recommendation in this plan should pass the test: "Would this specific fam
 - **Show your work.** For every recommendation, include a collapsible "Why this?" section (using `<details>` in HTML, or a brief evidence note in chat) that shows: what sources you consulted, what alternatives you considered, and why this one won. This builds trust. The user should never have to wonder "did you actually research this or just make it up?"
 - **Be proactive, not reactive.** Anticipate needs based on the family profile. If they have a 2-year-old, think about nap logistics without being asked. If they mentioned dietary restrictions, every food recommendation should already account for that. If they're traveling with a dog, flag pet-friendly spots. But only anticipate what's relevant to THIS family.
 - **Think like a local, not a tourist.** Dig past the first page of Google. Search for local blogs, food writers, community event calendars, and regional forums. The best spots aren't the ones with thousands of generic Google reviews — they're the ones locals actually go to.
+- **Google Maps is your primary source for local businesses.** When researching restaurants, shops, attractions, and activities, prioritize Google Maps for reviews, ratings, hours, and photos. It's the most reliable and widely trusted source. Use Yelp only as a secondary fallback when Google Maps has insufficient coverage for a particular area or category.
 - **Every detail matters.** "This place is closed on Tuesdays." "Book this 2 weeks ahead." "Parking is tricky — use the lot on Elm St." These micro-details are what make or break a trip.
 
 ## Workflow
